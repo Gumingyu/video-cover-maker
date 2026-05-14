@@ -1,6 +1,7 @@
 # 谷sir说英语 · 封面生成器
 
 专为中小学英语教育内容创作者设计的视频封面生成工具。
+https://gumingyu.github.io/video-cover-maker/
 
 ## 功能特点
 
